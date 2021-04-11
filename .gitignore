@@ -9,3 +9,6 @@ logs/
 *.pyc
 doc_html/*
 .coverage
+build/*
+avalanche.egg-info/*
+dist/*
